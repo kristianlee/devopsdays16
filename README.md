@@ -37,21 +37,28 @@ The ~~strikethrough~~ talks were ones I didn't enjoy / didn't really seem to say
 
 ####Thursday
 **[Erica Baker - Slack - Keynote](talks/ericabaker)**
+
 **[Adam Jacob - Chef - The Evolution of Automation](talks/habitat.md)**
+
 [Daniël van Gils (Cloud66) 
 How the hell do I run my microservices in production, and will it scale?](talks/microservices.md)
+
 ~~Warner Moore (CoverMyMeds) 
 DevOps has Always Been About Security~~
+
 **[Avishai Ish-Shalom (Fewbytes) 
 The Mathematics of Reliability, supersuper interesting](talks/reliability.md)**
 
 ####Friday
 [Ken Mugrage (Thoughtworks) 
 What we’re learning about burnout and how a DevOps culture can help](talks/burnout.md)
+
 **[Victoria Jeffrey (Chef) 
 Preparing for the Day After Tomorrow - Test-Driven Infrastructure](talks/inspec.md)**
+
 [Desmond Delissen
 Continuous testing in the world of APIs](talks/minosse.md)
+
 ~~Harm Weites (Wehkamp) 
 One engineer, four environments, no termination protection.~~
 
