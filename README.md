@@ -78,7 +78,7 @@ Below were the ignite talks I saw (organised in order of my interest in them):
 - [Will Button (Trax) - An ElasticSearch Cluster Named George Armstrong Custer](talks/custer.md)
 - [Hannah Foxwell (Pendrica) - Systems are Simple. Humans are Complex.](talks/complexhumans.md)
 - [Gopal Ramachandran (TMNS) - Test driven Dockerized infrastructure](talks/tddi.md)
-- [Jason Yee (Datadog) - Breaking Brooks' Law with DevOps.](talks/brookslaw)
+- [Jason Yee (Datadog) - Breaking Brooks' Law with DevOps.](talks/brookslaw.md)
 - [Bernd Erk - Working in and with Open Source Communities](talks/ossc.md)
 - [Pavel Chunyayev (Levi9) - The importance of ‘why’ for software operations.](talks/why.md)
 - [Marco Ceppi - Open Source Operations - punching up](talks/ossops.md)
