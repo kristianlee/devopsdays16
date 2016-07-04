@@ -1,5 +1,7 @@
 #What we’re learning about burnout and how a DevOps culture can help
 
+The presentation's [here](http://www.slideshare.net/kmugrage/what-were-learning-about-burnout-and-how-devops-can-help)
+
 Why should we address burnout? - 
 Google rework blog, looking into successful teams - no 1 on the list was psychological safety (if you don't feel safe to fail, won't take risks).
  
