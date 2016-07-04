@@ -1,6 +1,8 @@
 # devopsdays16
 devopsdays Amsterdam '16 Report
 
+<sup>(all my notes are my own from the talks / workshops, I've linked to the parent repos where the links were available)</sup>
+
 My three main takeaways:
 
 1) [Habitat](talks/habitat.md) looks great, and is something we should definitely look at for Yammer. 
@@ -61,6 +63,8 @@ Continuous testing in the world of APIs](talks/minosse.md)
 
 ~~Harm Weites (Wehkamp) 
 One engineer, four environments, no termination protection.~~
+
+**[Radically Open Security - chat ops pen testing](talks/chatops.md)**
 
 ###Ignite Talks
 This was an interesting concept, whereby participants were given 6 minutes to present about their topic. Their presentations should consist of exactly 20 slides, and would be automatically moved through (i.e. each slide will be on screen for 18 seconds).
