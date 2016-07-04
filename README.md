@@ -1,5 +1,5 @@
 # devopsdays16
-devopsdays Amsterdam '16 Report
+[devopsdays Amsterdam '16](http://www.devopsdays.org/events/2016-amsterdam/welcome/) Report
 
 <sup>(all my notes are my own from the talks / workshops, I've linked to the parent repos where the links were available)</sup>
 
