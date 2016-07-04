@@ -8,6 +8,7 @@ The slides for the presentation are [here](https://github.com/Fewbytes/rubber-do
 
 I'll attempt to go through the main points of the presentation / workstation here:
 
+##My Notes
 ###How do containers work in terms of the Linux kernel?
 
 - Namespaces (give a group of processes a view of the system that is distinct and different from others running on the system), 6 namespaces: 'network', 'pid', 'user'
