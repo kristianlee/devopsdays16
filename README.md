@@ -38,7 +38,7 @@ The **bolded** ones were the ones I found the most interesting.
 The ~~strikethrough~~ talks were ones I didn't enjoy / didn't really seem to say much of interest (I haven't written them up)/ 
 
 ####Thursday
-**[Erica Baker - Slack - Keynote](talks/ericabaker)**
+**[Erica Baker - Slack - Keynote](talks/ericabaker.md)**
 
 **[Adam Jacob - Chef - The Evolution of Automation](talks/habitat.md)**
 
